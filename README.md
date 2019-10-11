@@ -4,13 +4,13 @@
 ## Installation
 
 ```sh
-$ npm install --save ubigeoperu
+$ npm install --save peru-ubigeo
 ```
 
 ## Usage
 
 ```js
-const Ubigeoperu = require('ubigeo-peru');
+const Ubigeoperu = require('peru-ubigeo');
 
 var ubigeo=new Ubigeoperu()
 

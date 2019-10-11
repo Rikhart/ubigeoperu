@@ -1,6 +1,6 @@
 {
-  "name": "ubigeo-peru",
-  "version": "0.0.0",
+  "name": "peru-ubigeo",
+  "version": "0.0.1",
   "description": "Simple libreria para consultar codigos de ubigeo",
   "homepage": "",
   "author": {
