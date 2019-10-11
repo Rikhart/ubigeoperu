@@ -10,7 +10,7 @@ $ npm install --save ubigeoperu
 ## Usage
 
 ```js
-const Ubigeoperu = require('ubigeoperu');
+const Ubigeoperu = require('ubigeo-peru');
 
 var ubigeo=new Ubigeoperu()
 
